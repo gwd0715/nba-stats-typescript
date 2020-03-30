@@ -1,0 +1,16 @@
+.data-view {
+    width: 550px;
+}
+
+.filters {
+    height: 80px;
+    margin: 0 auto;
+}
+
+.fill-empty-space {
+    height: 32px;
+}
+
+.slider-row {
+    justify-content: center;
+}
