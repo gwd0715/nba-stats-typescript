@@ -39,7 +39,6 @@ const SearchBar: React.FC<Props> = (props: Props) => {
     };
 
     const onSelect = (name: string) => {
-        console.log(name);
         props.handleSelectPlayer(name);
     };
 
