@@ -18,4 +18,4 @@ And go to this repo directory in your terminal , run npm install which requires 
 Finally run npm start.
 
 **If have any questions, please contact me**
-**Email: gwd0715@gmail.co**
+**Email: gwd0715@gmail.com**
