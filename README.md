@@ -12,7 +12,7 @@ Shooting charts help you identify trends, strengths, weaknesses, and ultimately 
 
 ### How to use it
 
-This is a React app
+This is a React app.
 You can clone thie repository to your local computer
 And go to this repo directory in your terminal , run npm install which requires node environment installed in the first place.
 Finally run npm start.
